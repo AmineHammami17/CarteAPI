@@ -1,0 +1,6 @@
+@CarteAPI_HostAddress = http://localhost:5055
+
+GET {{CarteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
